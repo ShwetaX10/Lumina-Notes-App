@@ -78,7 +78,18 @@ Transform notes into actionable workflows directly inside the application.
 - 🧠 Productivity-focused design
 - 📱 Multi-device accessibility
 
+# 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E50914?style=for-the-badge&logo=html5&logoColor=white)
 
+![CSS3](https://img.shields.io/badge/CSS3-141414?style=for-the-badge&logo=css3&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-E50914?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-141414?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-E50914?style=for-the-badge)
+
+![LeetCode](https://img.shields.io/badge/LeetCode-141414?style=for-the-badge&logo=leetcode&logoColor=FFA116)
 
 
 
